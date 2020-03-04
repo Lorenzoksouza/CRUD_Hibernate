@@ -1,0 +1,20 @@
+
+.msg_sucesso{
+    background-color: #3399ff;
+    height: 30px;    
+    margin-bottom: 20px;
+    padding: 10px 0 0 24px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.msg_erro{
+    background-color: #cc0000;
+    height: 30px;
+    margin-bottom: 20px;
+    padding: 10px 0 0 24px;
+    color: #fff;
+    font-size: 20px;
+}
+
+
